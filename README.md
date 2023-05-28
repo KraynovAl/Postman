@@ -1,5 +1,5 @@
 # Postman
-Creation Trelo API req
+creating Trelo API req
 
 Створити одну тестову дошку через API i Postman, в якій і виконувати всі подальші завдання
 Створити наступні запити через Постман:
